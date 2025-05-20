@@ -1,0 +1,49 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Marc-André ter Stegen",
+      "birth_date": "1992-04-30",
+      "Position": "Goalkeeper",
+      "International": "Germany",
+      "Team": "Barcelona",
+      "Poster": "https://i.postimg.cc/jSgGMC3f/TerStegen.jpg"
+    },
+    {
+      "no": "4",
+      "name": "Ronald Araújo",
+      "birth_date": "1999-03-07",
+      "Position": "Defender",
+      "International": "Uruguay",
+      "Team": "Barcelona",
+      "Poster": "https://i.postimg.cc/qRRGwZmK/Araujo.jpg"
+    },
+    {
+      "no": "8",
+      "name": "Pedri",
+      "birth_date": "2002-11-25",
+      "Position": "Midfielder",
+      "International": "Spain",
+      "Team": "Barcelona",
+      "Poster": "https://i.postimg.cc/zXD9Zkxp/Pedri.jpg"
+    },
+    {
+      "no": "9",
+      "name": "Robert Lewandowski",
+      "birth_date": "1988-08-21",
+      "Position": "Forward",
+      "International": "Poland",
+      "Team": "Barcelona",
+      "Poster": "https://i.postimg.cc/3JKzT2Yc/Lewandowski.jpg"
+    },
+    {
+      "no": "27",
+      "name": "Lamine Yamal",
+      "birth_date": "2007-07-13",
+      "Position": "Forward",
+      "International": "Spain",
+      "Team": "Barcelona",
+      "Poster": "https://i.postimg.cc/NMfzvY4X/Lamine-Yamal.jpg"
+    }
+  ]
+}
